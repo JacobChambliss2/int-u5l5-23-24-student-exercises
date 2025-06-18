@@ -8,3 +8,9 @@ img {
 body {
     font-family: 'Helvetica';
 }
+#imageContainer {
+    display: flex; 
+    justify-content: space-evenly; 
+    gap: 20px; 
+    margin: 20px; 
+}
